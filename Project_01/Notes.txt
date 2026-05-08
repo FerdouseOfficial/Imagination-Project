@@ -1,0 +1,5 @@
+Don't thing of it just a random project. If you are a pro guy then this will feel very basic for you. 
+
+But I just finished learning the concepts of Animatoni in Css. And I was Curious to make somethin like in the header section on the logo. I want to create an Animation that will flow and circle around the logo.
+
+The the raw idea of it now.
